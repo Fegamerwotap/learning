@@ -1,0 +1,4 @@
+from math import sqrt
+n = float(input(' digite um numero'))
+r= sqrt(n)
+print('a raiz quadrada do numero{} é igual a {}'.format(n, r))
